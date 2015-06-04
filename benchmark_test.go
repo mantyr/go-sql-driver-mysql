@@ -10,8 +10,8 @@ package mysql
 
 import (
 	"bytes"
-	"database/sql"
-	"database/sql/driver"
+	"github.com/mantyr/database/sql"
+	"github.com/mantyr/database/sql/driver"
 	"math"
 	"strings"
 	"sync"

@@ -10,7 +10,7 @@ package mysql
 
 import (
 	"crypto/tls"
-	"database/sql/driver"
+	"github.com/mantyr/database/sql/driver"
 	"errors"
 	"net"
 	"strconv"

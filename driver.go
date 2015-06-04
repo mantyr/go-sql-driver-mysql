@@ -17,8 +17,8 @@
 package mysql
 
 import (
-	"database/sql"
-	"database/sql/driver"
+	"github.com/mantyr/database/sql"
+	"github.com/mantyr/database/sql/driver"
 	"net"
 )
 

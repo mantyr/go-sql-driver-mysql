@@ -11,7 +11,7 @@ package mysql
 import (
 	"bytes"
 	"crypto/tls"
-	"database/sql/driver"
+	"github.com/mantyr/database/sql/driver"
 	"encoding/binary"
 	"fmt"
 	"io"

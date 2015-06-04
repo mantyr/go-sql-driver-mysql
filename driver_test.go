@@ -10,8 +10,8 @@ package mysql
 
 import (
 	"crypto/tls"
-	"database/sql"
-	"database/sql/driver"
+	"github.com/mantyr/database/sql"
+	"github.com/mantyr/database/sql/driver"
 	"fmt"
 	"io"
 	"io/ioutil"

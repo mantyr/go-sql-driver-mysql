@@ -9,7 +9,7 @@
 package mysql
 
 import (
-	"database/sql/driver"
+	"github.com/mantyr/database/sql/driver"
 	"fmt"
 	"reflect"
 )
